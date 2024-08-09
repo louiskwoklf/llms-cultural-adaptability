@@ -1,4 +1,4 @@
-# Evaluating Cultural Adaptability of a Large Language Model via Synthetic Personas
+# Evaluating Cultural Adaptability of a Large Language Model via Simulation of Synthetic Personas
 
 This repository contains the code and materials for the paper "Evaluating Cultural Adaptability of a Large Language Model via Synthetic Personas", published at the Conference on Large Modeling (COLM) 2024.
 
